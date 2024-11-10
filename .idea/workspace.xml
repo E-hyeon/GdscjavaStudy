@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5c49040-746d-4a10-bcf9-7c21a655f466" name="Changes" comment="spring- 섹션5">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/pay1/DefaultPay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/pay1/KakaoPay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/pay1/NaverPay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/pay1/Pay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/pay1/PayMain1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/pay1/PayMain2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/pay1/PayService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/pay1/PayStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/sender/EmailSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/sender/FacebookSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/sender/SendMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/sender/Sender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springstart/sender/SmsSender.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="leehyeon" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/E-hyeon/GdscjavaStudy.git&quot;,
+    &quot;accountId&quot;: &quot;e95b86c7-119b-4f83-ba64-b1e851cfc7d9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mOkrvpjCF17PHeH1rnUvnWohE5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/은정/inflearn/GdscjavaStudy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\은정\inflearn\GdscjavaStudy\springstart" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5c49040-746d-4a10-bcf9-7c21a655f466" name="Changes" comment="" />
+      <created>1726955211533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726955211533</updated>
+      <workItem from="1726955212575" duration="2042000" />
+      <workItem from="1727163468115" duration="690000" />
+      <workItem from="1727677154839" duration="277000" />
+      <workItem from="1727681462107" duration="305000" />
+      <workItem from="1728355165991" duration="1768000" />
+      <workItem from="1729584453932" duration="16000" />
+      <workItem from="1730697248405" duration="10000" />
+      <workItem from="1730697276863" duration="1772000" />
+      <workItem from="1730708050051" duration="33000" />
+      <workItem from="1730710006285" duration="5740000" />
+      <workItem from="1730782585312" duration="3248000" />
+      <workItem from="1731254646802" duration="255000" />
+      <workItem from="1731254912071" duration="475000" />
+    </task>
+    <task id="LOCAL-00001" summary="java 기본 - 섹션1,2">
+      <option name="closed" value="true" />
+      <created>1726955936553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726955936553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="java 기본 - 섹션3">
+      <option name="closed" value="true" />
+      <created>1726956767048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726956767048</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java 기본 - 섹션3,4">
+      <option name="closed" value="true" />
+      <created>1727163557799</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727163557799</updated>
+    </task>
+    <task id="LOCAL-00004" summary="java 기본 - 섹션5,6,7,8(변수3까지)">
+      <option name="closed" value="true" />
+      <created>1728355455566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728355455566</updated>
+    </task>
+    <task id="LOCAL-00005" summary="java 기본 - 섹션8(메서드,문풀),9,10">
+      <option name="closed" value="true" />
+      <created>1728356124698</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728356124698</updated>
+    </task>
+    <task id="LOCAL-00006" summary="java 기본 - 섹션 끝까지">
+      <option name="closed" value="true" />
+      <created>1730697691950</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730697691950</updated>
+    </task>
+    <task id="LOCAL-00007" summary="spring- 섹션5">
+      <option name="closed" value="true" />
+      <created>1730698667085</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730698667085</updated>
+    </task>
+    <task id="LOCAL-00008" summary="spring- 섹션5">
+      <option name="closed" value="true" />
+      <created>1731254695660</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731254695660</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java 기본 - 섹션1,2" />
+    <MESSAGE value="java 기본 - 섹션3" />
+    <MESSAGE value="java 기본 - 섹션3,4" />
+    <MESSAGE value="java 기본 - 섹션5,6,7,8(변수3까지)" />
+    <MESSAGE value="java 기본 - 섹션8(메서드,문풀),9,10" />
+    <MESSAGE value="java 기본 - 섹션 끝까지" />
+    <MESSAGE value="spring- 섹션5" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring- 섹션5" />
+  </component>
+</project>
