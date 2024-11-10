@@ -1,4 +1,4 @@
-package construct;
+package src.section5.construct;
 
 public class MethodInitMain1 {
 
