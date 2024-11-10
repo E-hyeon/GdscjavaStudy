@@ -1,4 +1,4 @@
-package construct;
+package src.section5.construct;
 
 public class MemberConstruct {
     String name;
@@ -7,6 +7,7 @@ public class MemberConstruct {
 
     //추가
     MemberConstruct(String name, int age) {
+        System.out.println("go");
         this(name, age, 50); //변경
     }
 
@@ -17,3 +18,5 @@ public class MemberConstruct {
         this.grade = grade;
     }
 }
+
+
