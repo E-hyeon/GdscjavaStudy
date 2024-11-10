@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5c49040-746d-4a10-bcf9-7c21a655f466" name="Changes" comment="spring- 섹션5">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/pay1/DefaultPay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/pay1/KakaoPay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/pay1/NaverPay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/pay1/Pay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/pay1/PayMain1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/pay1/PayMain2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/pay1/PayService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/pay1/PayStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/sender/EmailSender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/sender/FacebookSender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/sender/SendMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/sender/Sender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springstart/sender/SmsSender.java" beforeDir="false" />
-    </list>
+    <list default="true" id="e5c49040-746d-4a10-bcf9-7c21a655f466" name="Changes" comment="스프링 시작" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="leehyeon" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,7 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "springStart",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/은정/inflearn/GdscjavaStudy",
     "node.js.detected.package.eslint": "true",
@@ -109,7 +94,7 @@
       <workItem from="1730710006285" duration="5740000" />
       <workItem from="1730782585312" duration="3248000" />
       <workItem from="1731254646802" duration="255000" />
-      <workItem from="1731254912071" duration="475000" />
+      <workItem from="1731254912071" duration="831000" />
     </task>
     <task id="LOCAL-00001" summary="java 기본 - 섹션1,2">
       <option name="closed" value="true" />
@@ -175,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731254695660</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="스프링 시작">
+      <option name="closed" value="true" />
+      <created>1731255695699</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731255695699</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +205,7 @@
     <MESSAGE value="java 기본 - 섹션8(메서드,문풀),9,10" />
     <MESSAGE value="java 기본 - 섹션 끝까지" />
     <MESSAGE value="spring- 섹션5" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring- 섹션5" />
+    <MESSAGE value="스프링 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="스프링 시작" />
   </component>
 </project>
